@@ -7,4 +7,4 @@ function exellentGrade(grade) {
 }
 
 exellentGrade(5.50)
-// exellentGrade(4.35)
+exellentGrade(4.35)
