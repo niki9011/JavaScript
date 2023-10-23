@@ -1,10 +1,10 @@
 function exellentGrade(grade) {
     if (grade >= 5.50) {
-        console.log('Exellent');
+        console.log('Excellent');
     } else {
-    console.log('Not exellent');
+    console.log('Not excellent');
     }
 }
 
 exellentGrade(5.50)
-exellentGrade(4.35)
+// exellentGrade(4.35)
