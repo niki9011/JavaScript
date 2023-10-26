@@ -8,7 +8,7 @@ function mountPrint(number) {
 
       case 2:
          mount = "February";
-         break;
+         break; 
 
       case 3:
          mount = "March";
@@ -51,9 +51,9 @@ function mountPrint(number) {
          mount = "December";
          break;
 
-
+   
       default:
-         mount = "Invalid month";
+         mount = "Error!";
    }
    console.log(mount);
 }

@@ -4,13 +4,20 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5f03b62f-27dc-4979-81c4-f2eeb8bcb69f" name="Changes" comment="add 2, 3 tasks">
+    <list default="true" id="5f03b62f-27dc-4979-81c4-f2eeb8bcb69f" name="Changes" comment="change name tasks">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -38,15 +45,22 @@
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_interpreter_path&quot;: &quot;/home/niki9011/.nvm/versions/node/v21.0.0/bin/node&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.fonts.default&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
   <component name="RunManager">
-    <configuration name="3.Excellent Grade.js" type="NodeJSConfigurationType" path-to-node="$PROJECT_DIR$/../.nvm/versions/node/v21.0.0/bin/node" nameIsGenerated="true" path-to-js-file="3.Excellent Grade.js" working-dir="$PROJECT_DIR$/JS Syntax Fundamentals – Lab">
+    <configuration name="7.Theatre Promotions.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/JS Syntax Fundamentals – Lab/7.Theatre Promotions.js" working-dir="$PROJECT_DIR$/JS Syntax Fundamentals – Lab">
       <method v="2" />
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.7.Theatre Promotions.js" />
+        <item itemvalue="Node.js.7.Theatre Promotions.js" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -61,6 +75,9 @@
       <workItem from="1698095341358" duration="297000" />
       <workItem from="1698174123489" duration="71000" />
       <workItem from="1698175290865" duration="29000" />
+      <workItem from="1698183354321" duration="3506000" />
+      <workItem from="1698253572020" duration="66000" />
+      <workItem from="1698253675244" duration="1101000" />
     </task>
     <task id="LOCAL-00001" summary="add 2, 3 tasks">
       <option name="closed" value="true" />
@@ -78,7 +95,23 @@
       <option name="project" value="LOCAL" />
       <updated>1698095408215</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="add 4,5,6 tasks">
+      <option name="closed" value="true" />
+      <created>1698183495150</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1698183495150</updated>
+    </task>
+    <task id="LOCAL-00004" summary="change name tasks">
+      <option name="closed" value="true" />
+      <created>1698183612567</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1698183612567</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -86,6 +119,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add 2, 3 tasks" />
-    <option name="LAST_COMMIT_MESSAGE" value="add 2, 3 tasks" />
+    <MESSAGE value="add 4,5,6 tasks" />
+    <MESSAGE value="change name tasks" />
+    <option name="LAST_COMMIT_MESSAGE" value="change name tasks" />
   </component>
 </project>
