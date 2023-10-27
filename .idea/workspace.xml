@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5f03b62f-27dc-4979-81c4-f2eeb8bcb69f" name="Changes" comment="change name tasks">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="5f03b62f-27dc-4979-81c4-f2eeb8bcb69f" name="Changes" comment="change 06 task" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -51,7 +49,7 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Node.js.6.Largest Number.js">
     <configuration name="7.Theatre Promotions.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/JS Syntax Fundamentals – Lab/7.Theatre Promotions.js" working-dir="$PROJECT_DIR$/JS Syntax Fundamentals – Lab">
       <method v="2" />
     </configuration>
@@ -78,6 +76,7 @@
       <workItem from="1698183354321" duration="3506000" />
       <workItem from="1698253572020" duration="66000" />
       <workItem from="1698253675244" duration="1101000" />
+      <workItem from="1698344201335" duration="291000" />
     </task>
     <task id="LOCAL-00001" summary="add 2, 3 tasks">
       <option name="closed" value="true" />
@@ -111,7 +110,23 @@
       <option name="project" value="LOCAL" />
       <updated>1698183612567</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="07,08,09,10 tasks add">
+      <option name="closed" value="true" />
+      <created>1698344327076</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1698344327076</updated>
+    </task>
+    <task id="LOCAL-00006" summary="change 06 task">
+      <option name="closed" value="true" />
+      <created>1698344440017</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1698344440017</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -121,6 +136,20 @@
     <MESSAGE value="add 2, 3 tasks" />
     <MESSAGE value="add 4,5,6 tasks" />
     <MESSAGE value="change name tasks" />
-    <option name="LAST_COMMIT_MESSAGE" value="change name tasks" />
+    <MESSAGE value="07,08,09,10 tasks add" />
+    <MESSAGE value="change 06 task" />
+    <option name="LAST_COMMIT_MESSAGE" value="change 06 task" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/JS Syntax Fundamentals – Lab/07.Theatre Promotions.js</url>
+          <line>4</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
