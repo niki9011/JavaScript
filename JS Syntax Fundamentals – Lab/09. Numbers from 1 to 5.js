@@ -3,4 +3,5 @@ function numbersPrint() {
     console.log(index);
   }
 }
+
 numbersPrint();
