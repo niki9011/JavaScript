@@ -4,7 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5f03b62f-27dc-4979-81c4-f2eeb8bcb69f" name="Changes" comment="11, 12 tasks add in JS Syntax Fundamentals - Exercises" />
+    <list default="true" id="5f03b62f-27dc-4979-81c4-f2eeb8bcb69f" name="Changes" comment="1-6 tasks add in JS Arrays and Strings – Lab">
+      <change afterPath="$PROJECT_DIR$/JS Arrays and Strings – Lab/ 1. Sum First and Last Array Elements .js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS Arrays and Strings – Lab/ 2. Reverse an Array of Numbers.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS Arrays and Strings – Lab/3. Even and Odd Subtraction.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS Arrays and Strings – Lab/4. Substring.JS" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS Arrays and Strings – Lab/5. Censored Words.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS Arrays and Strings – Lab/6. Count String Occurrences.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,6 +26,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RESET_MODE" value="MIXED" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -49,12 +57,16 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Node.js.6.Largest Number.js">
+  <component name="RunManager" selected="Node.js.12.Cooking by Numbers.js">
+    <configuration name="12.Cooking by Numbers.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/JS Syntax Fundamentals – Exercises/12.Cooking by Numbers.js" working-dir="$PROJECT_DIR$/JS Syntax Fundamentals – Exercises">
+      <method v="2" />
+    </configuration>
     <configuration name="7.Theatre Promotions.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/JS Syntax Fundamentals – Lab/7.Theatre Promotions.js" working-dir="$PROJECT_DIR$/JS Syntax Fundamentals – Lab">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.12.Cooking by Numbers.js" />
         <item itemvalue="Node.js.7.Theatre Promotions.js" />
         <item itemvalue="Node.js.7.Theatre Promotions.js" />
       </list>
@@ -153,7 +165,23 @@
       <option name="project" value="LOCAL" />
       <updated>1698610920197</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="11, 12 add tasks in JS Syntax Fundamentals – Exercises">
+      <option name="closed" value="true" />
+      <created>1698699140331</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1698699140331</updated>
+    </task>
+    <task id="LOCAL-00011" summary="1-6 tasks add in JS Arrays and Strings – Lab">
+      <option name="closed" value="true" />
+      <created>1698699180370</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1698699180370</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -168,7 +196,9 @@
     <MESSAGE value="add 01,02,03 tasks in JS Syntax Fundamentals - Exercises and Automatically formatting code all tasks" />
     <MESSAGE value="04,05,06,07,08,09,10 tasks add in JS Syntax Fundamentals - Exercises" />
     <MESSAGE value="11, 12 tasks add in JS Syntax Fundamentals - Exercises" />
-    <option name="LAST_COMMIT_MESSAGE" value="11, 12 tasks add in JS Syntax Fundamentals - Exercises" />
+    <MESSAGE value="11, 12 add tasks in JS Syntax Fundamentals – Exercises" />
+    <MESSAGE value="1-6 tasks add in JS Arrays and Strings – Lab" />
+    <option name="LAST_COMMIT_MESSAGE" value="1-6 tasks add in JS Arrays and Strings – Lab" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
