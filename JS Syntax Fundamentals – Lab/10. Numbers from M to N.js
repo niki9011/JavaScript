@@ -3,5 +3,4 @@ function numbersPrint(m, n) {
         console.log(index);
     }
 }
-
 numbersPrint(6, 2)
