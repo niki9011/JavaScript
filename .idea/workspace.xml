@@ -4,14 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5f03b62f-27dc-4979-81c4-f2eeb8bcb69f" name="Changes" comment="1-6 tasks add in JS Arrays and Strings – Lab">
-      <change afterPath="$PROJECT_DIR$/JS Arrays and Strings – Lab/ 1. Sum First and Last Array Elements .js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS Arrays and Strings – Lab/ 2. Reverse an Array of Numbers.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS Arrays and Strings – Lab/3. Even and Odd Subtraction.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS Arrays and Strings – Lab/4. Substring.JS" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS Arrays and Strings – Lab/5. Censored Words.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS Arrays and Strings – Lab/6. Count String Occurrences.js" afterDir="false" />
-    </list>
+    <list default="true" id="5f03b62f-27dc-4979-81c4-f2eeb8bcb69f" name="Changes" comment="1-6 tasks add in JS Arrays and Strings – Lab" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -181,7 +174,15 @@
       <option name="project" value="LOCAL" />
       <updated>1698699180370</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="1-6 tasks add in JS Arrays and Strings – Lab">
+      <option name="closed" value="true" />
+      <created>1698699245551</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1698699245551</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
