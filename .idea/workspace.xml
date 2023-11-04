@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5f03b62f-27dc-4979-81c4-f2eeb8bcb69f" name="Changes" comment="1-6 tasks add in JS Arrays and Strings – Lab" />
+    <list default="true" id="5f03b62f-27dc-4979-81c4-f2eeb8bcb69f" name="Changes" comment="1-4 tasks add in JS Arrays and Strings – Exercises" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -85,6 +85,7 @@
       <workItem from="1698445338553" duration="421000" />
       <workItem from="1698527231980" duration="101000" />
       <workItem from="1698610891078" duration="59000" />
+      <workItem from="1698946017986" duration="63000" />
     </task>
     <task id="LOCAL-00001" summary="add 2, 3 tasks">
       <option name="closed" value="true" />
@@ -182,11 +183,30 @@
       <option name="project" value="LOCAL" />
       <updated>1698699245551</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="1-4 tasks add in JS Arrays and Strings – Exercises">
+      <option name="closed" value="true" />
+      <created>1698946043306</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1698946043306</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add 2, 3 tasks" />
@@ -199,7 +219,8 @@
     <MESSAGE value="11, 12 tasks add in JS Syntax Fundamentals - Exercises" />
     <MESSAGE value="11, 12 add tasks in JS Syntax Fundamentals – Exercises" />
     <MESSAGE value="1-6 tasks add in JS Arrays and Strings – Lab" />
-    <option name="LAST_COMMIT_MESSAGE" value="1-6 tasks add in JS Arrays and Strings – Lab" />
+    <MESSAGE value="1-4 tasks add in JS Arrays and Strings – Exercises" />
+    <option name="LAST_COMMIT_MESSAGE" value="1-4 tasks add in JS Arrays and Strings – Exercises" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
