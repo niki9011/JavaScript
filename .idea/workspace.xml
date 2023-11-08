@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5f03b62f-27dc-4979-81c4-f2eeb8bcb69f" name="Changes" comment="1-4 tasks add in JS Arrays and Strings – Exercises" />
+    <list default="true" id="5f03b62f-27dc-4979-81c4-f2eeb8bcb69f" name="Changes" comment="5-8 tasks add in JS Arrays and Strings – Exercises">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -86,6 +88,7 @@
       <workItem from="1698527231980" duration="101000" />
       <workItem from="1698610891078" duration="59000" />
       <workItem from="1698946017986" duration="63000" />
+      <workItem from="1699137414158" duration="610000" />
     </task>
     <task id="LOCAL-00001" summary="add 2, 3 tasks">
       <option name="closed" value="true" />
@@ -191,7 +194,15 @@
       <option name="project" value="LOCAL" />
       <updated>1698946043306</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="5-8 tasks add in JS Arrays and Strings – Exercises">
+      <option name="closed" value="true" />
+      <created>1699138007763</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1699138007763</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -220,7 +231,8 @@
     <MESSAGE value="11, 12 add tasks in JS Syntax Fundamentals – Exercises" />
     <MESSAGE value="1-6 tasks add in JS Arrays and Strings – Lab" />
     <MESSAGE value="1-4 tasks add in JS Arrays and Strings – Exercises" />
-    <option name="LAST_COMMIT_MESSAGE" value="1-4 tasks add in JS Arrays and Strings – Exercises" />
+    <MESSAGE value="5-8 tasks add in JS Arrays and Strings – Exercises" />
+    <option name="LAST_COMMIT_MESSAGE" value="5-8 tasks add in JS Arrays and Strings – Exercises" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
