@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5f03b62f-27dc-4979-81c4-f2eeb8bcb69f" name="Changes" comment="01, 01 tasks add in Objects and Classes - Exercises">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="5f03b62f-27dc-4979-81c4-f2eeb8bcb69f" name="Changes" comment="04 tasks add in Objects and Classes - Exercises" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -98,6 +96,7 @@
       <workItem from="1700180739741" duration="56000" />
       <workItem from="1700329483247" duration="94000" />
       <workItem from="1700329587853" duration="165000" />
+      <workItem from="1700427665579" duration="34000" />
     </task>
     <task id="LOCAL-00001" summary="add 2, 3 tasks">
       <option name="closed" value="true" />
@@ -283,7 +282,15 @@
       <option name="project" value="LOCAL" />
       <updated>1700329558001</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="04 tasks add in Objects and Classes - Exercises">
+      <option name="closed" value="true" />
+      <created>1700427687577</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1700427687577</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -321,7 +328,8 @@
     <MESSAGE value="09, 10 tasks add in Functions and Statements - Exercises" />
     <MESSAGE value="01, 08 tasks add in Objects and Classes - Lab" />
     <MESSAGE value="01, 08 tasks add in Objects and Classes - Exercises" />
-    <option name="LAST_COMMIT_MESSAGE" value="01, 08 tasks add in Objects and Classes - Exercises" />
+    <MESSAGE value="04 tasks add in Objects and Classes - Exercises" />
+    <option name="LAST_COMMIT_MESSAGE" value="04 tasks add in Objects and Classes - Exercises" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
