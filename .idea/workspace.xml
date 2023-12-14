@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5f03b62f-27dc-4979-81c4-f2eeb8bcb69f" name="Changes" comment="add">
-      <change beforePath="$PROJECT_DIR$/JS Front-end Exam Preparation-1 Resources/01.MotoGP Race/motogp.js" beforeDir="false" afterPath="$PROJECT_DIR$/JS Front-end Exam Preparation-1 Resources/01.MotoGP Race/motogp.js" afterDir="false" />
-    </list>
+    <list default="true" id="5f03b62f-27dc-4979-81c4-f2eeb8bcb69f" name="Changes" comment="motogp.js add" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -110,7 +108,7 @@
       <workItem from="1700427665579" duration="34000" />
       <workItem from="1700599054176" duration="81000" />
       <workItem from="1701357113812" duration="284000" />
-      <workItem from="1702592192595" duration="387000" />
+      <workItem from="1702592192595" duration="1094000" />
     </task>
     <task id="LOCAL-00001" summary="add 2, 3 tasks">
       <option name="closed" value="true" />
@@ -336,7 +334,15 @@
       <option name="project" value="LOCAL" />
       <updated>1702592396291</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="motogp.js add">
+      <option name="closed" value="true" />
+      <created>1702592642129</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1702592642129</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -378,7 +384,8 @@
     <MESSAGE value="05-08 tasks add in Objects and Classes - Exercises" />
     <MESSAGE value="05-08 tasks add in Advanced-DOM" />
     <MESSAGE value="add" />
-    <option name="LAST_COMMIT_MESSAGE" value="add" />
+    <MESSAGE value="motogp.js add" />
+    <option name="LAST_COMMIT_MESSAGE" value="motogp.js add" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
