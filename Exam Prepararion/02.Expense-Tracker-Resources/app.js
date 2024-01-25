@@ -7,6 +7,7 @@ function solve() {
   const dateInput = document.getElementById("date");
   const previewList = document.getElementById("preview-list");
   const expensesList = document.getElementById("expenses-list");
+  
 
   let formElement = document.querySelector("form");
   let deleteButton = document.querySelector(".delete");
