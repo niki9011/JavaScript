@@ -6,6 +6,7 @@ const numDaysInput = document.getElementById("num-days");
 const fromDateInput = document.getElementById("from-date");
 const formAddButton = document.getElementById("add-vacation");
 const formEditButton = document.getElementById("edit-vacation");
+const formElement = document.querySelector("#form form");
 
 loadVacationsButton.addEventListener("click", loadVacations);
 
@@ -46,6 +47,44 @@ function loadVacations() {
     });
 }
 
+formEditButton.addEventListener("click", (e) => {
+  e.preventDefault();
+
+  const vacationId = formElement.dataset.vacation;
+
+  //get date
+  const vacationData = {
+    _id: vacationId,
+    name: nameInput.value,
+    days: numDaysInput.value,
+    date: fromDateInput.value,
+  };
+
+  //put request
+  fetch(`${baseUrl}/${vacationId}`, {
+    method: "PUT",
+    headers: {
+      "Content-Type": "application/json",
+    },
+    body: JSON.stringify(vacationData),
+  })
+    .then(loadVacations)
+
+    //deactivate edit button
+    .then(() => {
+      formAddButton.removeAttribute("disabled");
+
+      //activate add button
+      formEditButton.setAttribute("disabled", "disabled");
+
+      //clear form
+      clearForm();
+
+      //delete _id
+      delete formElement.dataset.vacation;
+    });
+});
+
 function renderVacations(vacations) {
   vacationList.innerHTML = "";
 
@@ -70,8 +109,16 @@ function renderVacation(vacation) {
   const changeButton = document.createElement("button");
   changeButton.className = "change-btn";
   changeButton.textContent = "Change";
+
   changeButton.addEventListener("click", () => {
-    
+    // deactivate add vacation button
+    formAddButton.setAttribute("disabled", "disabled");
+
+    // activate the edit vacation button
+    formEditButton.removeAttribute("disabled");
+
+    // save vacation id
+    formElement.dataset.vacation = vacation._id;
 
     // add to form fields
     nameInput.value = vacation.name;
@@ -80,19 +127,19 @@ function renderVacation(vacation) {
 
     // remove from confirmed list
     container.remove();
-
-    // activate the edit vacation button
-    formEditButton.removeAttribute('disabled');
-
-    // deactivate add vacation button
-    formAddButton.setAttribute('disabled', 'disabled');
-
-
   });
 
   const doneButton = document.createElement("button");
   doneButton.className = "done-btn";
   doneButton.textContent = "Done";
+  doneButton.addEventListener("click", () => {
+    //send delete request
+    fetch(`${baseUrl}/${vacation._id}`, {
+      method: "DELETE",
+    })
+      //load vacation
+      .then(loadVacations);
+  });
 
   container.appendChild(h2Element);
   container.appendChild(h3DateElement);
@@ -102,7 +149,3 @@ function renderVacation(vacation) {
 
   return container;
 }
-
-// send put request to
-
-// load vacations

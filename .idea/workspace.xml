@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5f03b62f-27dc-4979-81c4-f2eeb8bcb69f" name="Changes" comment="function renderVacations" />
+    <list default="true" id="5f03b62f-27dc-4979-81c4-f2eeb8bcb69f" name="Changes" comment="function renderVacations update" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -153,6 +153,7 @@
       <workItem from="1706717921435" duration="101000" />
       <workItem from="1706718039297" duration="346000" />
       <workItem from="1707333492981" duration="86000" />
+      <workItem from="1707423803621" duration="80000" />
     </task>
     <task id="LOCAL-00001" summary="add 2, 3 tasks">
       <option name="closed" value="true" />
@@ -434,7 +435,15 @@
       <option name="project" value="LOCAL" />
       <updated>1707333559411</updated>
     </task>
-    <option name="localTasksCounter" value="36" />
+    <task id="LOCAL-00036" summary="function renderVacations update">
+      <option name="closed" value="true" />
+      <created>1707423840462</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1707423840462</updated>
+    </task>
+    <option name="localTasksCounter" value="37" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -452,7 +461,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="change 06 task" />
     <MESSAGE value="add 01,02,03 tasks in JS Syntax Fundamentals - Exercises and Automatically formatting code all tasks" />
     <MESSAGE value="04,05,06,07,08,09,10 tasks add in JS Syntax Fundamentals - Exercises" />
     <MESSAGE value="11, 12 tasks add in JS Syntax Fundamentals - Exercises" />
@@ -477,7 +485,8 @@
     <MESSAGE value="add screenshot" />
     <MESSAGE value="add" />
     <MESSAGE value="function renderVacations" />
-    <option name="LAST_COMMIT_MESSAGE" value="function renderVacations" />
+    <MESSAGE value="function renderVacations update" />
+    <option name="LAST_COMMIT_MESSAGE" value="function renderVacations update" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
