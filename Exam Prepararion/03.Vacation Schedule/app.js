@@ -29,7 +29,7 @@ formAddButton.addEventListener("click", (e) => {
   })
     // Get vacantions
     .then(loadVacations)
-    .then(clearForm);
+  clearForm();
 });
 
 // Clear inputs
