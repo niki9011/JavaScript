@@ -1,0 +1,15 @@
+{
+    "configurations": [
+      {
+        "type": "node",
+        "request": "launch",
+        "name": "Launch Program",
+        "skipFiles": [
+          "<node_internals>/**"
+        ],
+        "program": "${file}", // or "${relativeFile}"
+        "runtimeExecutable": "/home/niki9011/.nvm/versions/node/v18.16.0/bin/node"
+      }
+    ]
+  }
+  
