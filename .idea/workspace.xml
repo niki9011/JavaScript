@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5f03b62f-27dc-4979-81c4-f2eeb8bcb69f" name="Changes" comment="function renderVacations update" />
+    <list default="true" id="5f03b62f-27dc-4979-81c4-f2eeb8bcb69f" name="Changes" comment="add 1-Encoded Cryptocurrency">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exam Prepararion/ 01.Encoded Cryptocurrency /Encoded Cryptocurrency.js" beforeDir="false" afterPath="$PROJECT_DIR$/Exam Prepararion/ 01.Encoded Cryptocurrency /Encoded Cryptocurrency.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -33,21 +36,27 @@
   &quot;associatedIndex&quot;: 0
 }</component>
   <component name="ProjectId" id="2XBBTyRir0zz1mO3JAedhihq4lE" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
-    &quot;JavaScript Debug.index.html.executor&quot;: &quot;Coverage&quot;,
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;JavaScript Debug.index.html.executor&quot;: &quot;Run&quot;,
     &quot;Node.js.12.Cooking by Numbers.js.executor&quot;: &quot;Run&quot;,
+    &quot;Node.js.Encoded Cryptocurrency.js.executor&quot;: &quot;Run&quot;,
+    &quot;Node.js.Unnamed.executor&quot;: &quot;Run&quot;,
     &quot;Node.js.motogp.js.executor&quot;: &quot;Run&quot;,
     &quot;Python.az.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/home/niki9011/JavaScript&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/niki9011/python-advanced&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -58,7 +67,7 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="JavaScript Debug.index.html">
+  <component name="RunManager" selected="Node.js.Encoded Cryptocurrency.js">
     <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/JavaScript/Exam Prepararion/02.Expense-Tracker-Resources/index.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
@@ -66,6 +75,12 @@
       <method v="2" />
     </configuration>
     <configuration name="7.Theatre Promotions.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/JS Syntax Fundamentals – Lab/7.Theatre Promotions.js" working-dir="$PROJECT_DIR$/JS Syntax Fundamentals – Lab">
+      <method v="2" />
+    </configuration>
+    <configuration name="Encoded Cryptocurrency.js" type="NodeJSConfigurationType" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Exam Prepararion/ 01.Encoded Cryptocurrency /Encoded Cryptocurrency.js" working-dir="$PROJECT_DIR$/../..">
+      <method v="2" />
+    </configuration>
+    <configuration name="Unnamed" type="NodeJSConfigurationType" nameIsGenerated="true" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
     <configuration name="az" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
@@ -91,11 +106,20 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <list>
+      <item itemvalue="JavaScript Debug.index.html" />
+      <item itemvalue="Node.js.12.Cooking by Numbers.js" />
+      <item itemvalue="Node.js.7.Theatre Promotions.js" />
+      <item itemvalue="Node.js.Encoded Cryptocurrency.js" />
+      <item itemvalue="Node.js.Unnamed" />
+      <item itemvalue="Python.az" />
+      <item itemvalue="Node.js.6.Largest Number.js" />
+    </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.12.Cooking by Numbers.js" />
         <item itemvalue="JavaScript Debug.index.html" />
         <item itemvalue="Python.az" />
-        <item itemvalue="Node.js.12.Cooking by Numbers.js" />
         <item itemvalue="Node.js.7.Theatre Promotions.js" />
         <item itemvalue="Node.js.7.Theatre Promotions.js" />
       </list>
@@ -154,6 +178,9 @@
       <workItem from="1706718039297" duration="346000" />
       <workItem from="1707333492981" duration="86000" />
       <workItem from="1707423803621" duration="80000" />
+      <workItem from="1707581640418" duration="785000" />
+      <workItem from="1707680265545" duration="681000" />
+      <workItem from="1707734205671" duration="6562000" />
     </task>
     <task id="LOCAL-00001" summary="add 2, 3 tasks">
       <option name="closed" value="true" />
@@ -443,7 +470,23 @@
       <option name="project" value="LOCAL" />
       <updated>1707423840462</updated>
     </task>
-    <option name="localTasksCounter" value="37" />
+    <task id="LOCAL-00037" summary="add 1-Encoded Cryptocurrency">
+      <option name="closed" value="true" />
+      <created>1707581681027</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1707581681027</updated>
+    </task>
+    <task id="LOCAL-00038" summary="add 1-Encoded Cryptocurrency">
+      <option name="closed" value="true" />
+      <created>1707581784795</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1707581784795</updated>
+    </task>
+    <option name="localTasksCounter" value="39" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -461,7 +504,7 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="add 01,02,03 tasks in JS Syntax Fundamentals - Exercises and Automatically formatting code all tasks" />
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="04,05,06,07,08,09,10 tasks add in JS Syntax Fundamentals - Exercises" />
     <MESSAGE value="11, 12 tasks add in JS Syntax Fundamentals - Exercises" />
     <MESSAGE value="11, 12 add tasks in JS Syntax Fundamentals – Exercises" />
@@ -486,7 +529,8 @@
     <MESSAGE value="add" />
     <MESSAGE value="function renderVacations" />
     <MESSAGE value="function renderVacations update" />
-    <option name="LAST_COMMIT_MESSAGE" value="function renderVacations update" />
+    <MESSAGE value="add 1-Encoded Cryptocurrency" />
+    <option name="LAST_COMMIT_MESSAGE" value="add 1-Encoded Cryptocurrency" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
